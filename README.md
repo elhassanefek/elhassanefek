@@ -6,9 +6,9 @@ Passionate about building **scalable APIs**, **real-time applications**, and **i
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🚀 Programming Languages
+### Programming Languages
 <p float="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -17,7 +17,7 @@ Passionate about building **scalable APIs**, **real-time applications**, and **i
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### 🌐 Backend Development
+### Backend Development
 <p float="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -27,7 +27,7 @@ Passionate about building **scalable APIs**, **real-time applications**, and **i
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 </p>
 
-### 🎨 Frontend & Design
+### Frontend & Design
 <p float="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -36,7 +36,7 @@ Passionate about building **scalable APIs**, **real-time applications**, and **i
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### 🧠 AI / Machine Learning
+### AI / Machine Learning
 <p float="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -44,7 +44,7 @@ Passionate about building **scalable APIs**, **real-time applications**, and **i
   <img src="https://img.shields.io/badge/NLP-6E40AA?style=for-the-badge" />
 </p>
 
-### 💾 Databases & Cloud
+### Databases & Cloud
 <p float="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -55,6 +55,6 @@ Passionate about building **scalable APIs**, **real-time applications**, and **i
 ---
 
 
-## 📫 Contact Me
+## Contact Me
 
 - **Email**: [ne_fekairi@esi.dz](mailto:ne_fekairi@esi.dz)
