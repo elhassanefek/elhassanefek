@@ -1,16 +1,71 @@
-## Hi there 👋
 
-<!--
-**elhassanefek/elhassanefek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Fekairi Elhassane
 
-Here are some ideas to get you started:
+ Full-Stack Developer | React • Node.js • FastAPI
+ Passionate about building real-world applications and scalable systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+##  About Me
+
+I'm a full-stack developer focused on building modern web applications with clean architecture and real-world usability.
+
+I’ve worked on projects like:
+
+* eCommerce platforms (frontend + backend)
+* Dashboards with modern state management
+* REST APIs with authentication and secure architecture
+* Exploring Machine Learning & AI systems
+
+I enjoy turning ideas into functional products and continuously improving my skills in both frontend and backend development.
+
+---
+
+## 🛠️ Tech Stack
+
+###  Frontend
+
+* React (Vite)
+* Context API
+* React Query
+* Tailwind CSS
+
+###  Backend
+
+* Node.js (Express)
+* FastAPI
+* REST APIs
+* JWT Authentication
+
+###  Database
+
+* MongoDB
+* Postresql
+* Mysql
+
+###  Other
+
+* Machine Learning (Regression, Classification, NLP basics)
+* Git & GitHub
+* API Integration
+
+---
+
+##  Current Focus
+
+* Learning **MLOps & deployment**
+* Improving backend architecture and scalability
+
+--
+
+
+---
+
+##  Contact Me
+
+* Email:ne_fekairi@esi.dz
+
+---
+
+⭐ Always learning. Always building.
