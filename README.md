@@ -8,7 +8,7 @@ I enjoy working on systems involving **transaction processing, authentication, d
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Programming Languages
 
