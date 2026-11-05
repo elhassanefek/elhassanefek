@@ -84,55 +84,8 @@ I enjoy working on systems involving **transaction processing, authentication, d
 
 ---
 
-## 🚀 Featured Projects
 
-### Transacta — Transaction Processing Platform
-
-Multi-tenant backend platform focused on **atomic and idempotent transaction processing**.
-
-* Multi-tenant architecture with strict tenant isolation
-* Idempotency engine with request fingerprinting and response replay
-* Transactional outbox for reliable webhook delivery
-* HMAC-SHA256 webhook signing
-* Retry and dead-letter handling
-* JWT authentication with refresh-token rotation
-* Per-tenant RBAC
-
-**Stack:** Go · PostgreSQL · JWT · Docker · Chi · testcontainers-go
-
-[View Project →](https://github.com/elhassanefek/transacta)
-
----
-
-### Projectify — Project Management API
-
-Scalable backend for managing **workspaces, projects, and tasks**, with real-time collaboration.
-
-**Stack:** Node.js · Express · MongoDB · Socket.IO · JWT · Jest
-
-[View Project →](https://github.com/elhassanefek/projectify)
-
----
-
-### E-Commerce Multi-Store Platform
-
-Full-stack e-commerce platform supporting **customers, sellers, and administrators**, with product, order, and customer management.
-
-**Stack:** React · React Query · Styled Components
-
-[View Project →](https://github.com/elhassanefek/multi-role-ecommerce-platform)
-
----
-
-### GDG Events Platform
-
-Admin and organizer dashboards for managing events, logistics, sessions, announcements, meals, and participant attendance in real time.
-
-**Stack:** React · TypeScript · shadcn/ui
-
----
-
-## 💡 What I Like Building
+##  What I Like Building
 
 * Scalable backend services
 * RESTful APIs
@@ -146,7 +99,7 @@ Admin and organizer dashboards for managing events, logistics, sessions, announc
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 * **Email:** [ne_fekairi@esi.dz](mailto:ne_fekairi@esi.dz)
 * **LinkedIn:** [linkedin.com/in/el-hassane-fekairi](https://www.linkedin.com/in/el-hassane-fekairi-2088b0387)
